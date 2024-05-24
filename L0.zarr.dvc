@@ -1,6 +1,6 @@
 outs:
-- md5: e954f23f4601e151fbb29a243767d9f1.dir
-  size: 2244024931
+- md5: 8535186c82c5d3641aa95c013a049d10.dir
+  size: 2209167457
   nfiles: 27
   hash: md5
   path: L0.zarr
