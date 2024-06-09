@@ -1,2 +1,5 @@
 [core]
     autostage = true
+    remote = copernicus
+['remote "copernicus"']
+    url = ssh://dvc@copernicus.ece.illinois.edu/home/dvc/database
